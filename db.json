@@ -1,5 +1,5 @@
 {
-  "projects": [
+  "collections": [
     {
       "id": 1,
       "title": "Module 2 Project",
@@ -13,7 +13,7 @@
       "userId": 1
     }
   ],
-  "tasks": [
+  "wishlist": [
     {
       "id": 1,
       "projectId": 1,
