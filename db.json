@@ -1,33 +1,22 @@
 {
-  "collections": [
+  "collection": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "volume_title": "Invent for testing",
+      "issue_title": "300",
+      "volume_number": "url",
+      "issue_number": "url",
+      "image": "url"
     }
   ],
   "wishlist": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "volume_title": "Invent for testing",
+      "issue_title": "300",
+      "volume_number": "url",
+      "issue_number": "url",
+      "image": "url"
     }
   ]
 }

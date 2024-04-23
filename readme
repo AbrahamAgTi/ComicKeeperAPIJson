@@ -1,0 +1,10 @@
+JSON Backend to store the Comic collection from Comic Keeper
+
+
+The structure of the db.json is having 2 main objects:
+
+Collection: To store/delete all the Comics added to user's collection.
+Wishlist: To store/delete all the Comics added to users wishes.
+
+Both are updated through the Posts in ComicsPage and Deleted in MyPage.
+
